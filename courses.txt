@@ -1,0 +1,6 @@
+LECTURE,History,HIS201,3,100,Hall A-101,4
+LAB,Physics Lab,PHY102,4,20,Oscilloscopes,8
+ONLINE,Programming,CS150,6,200,Moodle,true
+LECTURE,Algebra,MAT101,5,30,Hall B-2,6
+ONLINE,English,ENG110,2,150,Zoom,false
+LECTURE,OOP222,OOP222,4,66,A101,4

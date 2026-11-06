@@ -1,0 +1,3 @@
+ADMIN,Aigul Admin,aigul@univ.kg,Science and Technology,admin123
+STUDENT,Aida,student1@univ.kg,S1,1234
+STUDENT,Rayana,student2@univ.kg,S2,1234
